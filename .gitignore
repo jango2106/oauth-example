@@ -1,0 +1,4 @@
+./01-Login/node_modules/
+./01-Login/node_modules/**
+**/01-Login/node_modules
+**/01-Login/auth_config.json
